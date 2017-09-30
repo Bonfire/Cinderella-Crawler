@@ -20,7 +20,7 @@ How to Use
 Example Output
 ==============
 ```
-SSR Morikubo Nono "Forest Story" | Cool | For every 9 seconds, there is a 35% chance that Great and Perfect notes will receive a 17% score bonus in the next 5 seconds. | Highest: Vocal (4935)<br>
+SSR Morikubo Nono "Forest Story" | Cool | For every 9 seconds, there is a 35% chance that Great and Perfect notes will receive a 17% score bonus in the next 5 seconds. | Highest: Vocal (4935)
 SSR Honda Mio "Wonder Entertainer" | Passion | For every 9 seconds, there is a 35% chance that you will gain an extra 18% combo bonus in the next 5 seconds. | Highest: Dance (5830)
 SSR Yorita Yoshino "Watasumi's Guidance" | Passion | For every 9 seconds, there is a 35% chance that Great and Perfect notes will receive a 17% score bonus in the next 5 seconds. | Highest: Visual (5552)
 ```
